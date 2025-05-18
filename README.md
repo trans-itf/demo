@@ -22,6 +22,9 @@ graph TD
   BE --> FE
 
 ```
+## demo download link
+- https://github.com/trans-itf/demo/raw/refs/heads/main/slide_demo1.mp4
+- https://github.com/trans-itf/demo/raw/refs/heads/main/webPage_demo1.mp4
 
 ## point
 - 2秒に一回、スクリーンショットを撮る
